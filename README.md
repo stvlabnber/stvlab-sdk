@@ -6,6 +6,10 @@
 3. view: 九宮格、行事曆、ViewPager
 
 
+## gradle 引用:
+implementation 'net.stvlab:sdk:1.1.1'
+
+
 ## 使用說明:
 
 ### 1.SSL 憑證綁定驗證
