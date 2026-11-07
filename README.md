@@ -7,7 +7,7 @@
 
 
 ## gradle 引用:
-implementation 'net.stvlab:sdk:1.1.1'
+implementation 'net.stvlab:sdk:1.1.2'
 
 
 ## 使用說明:
